@@ -29,7 +29,7 @@ Designed for Metaphysical Technologists and those operating at the intersection 
 - **Supported platform infrastructure for BTBY (Becoming The Better You)**, helping conscious leaders clarify their message and expand their digital presence.  
 - **Produces AVAIL**, a live weekly resonance gate, staging expansion and evolution through dignified visibility and sovereign expression.  
 - **Guides Metaphysical Technologists** into the creation of their own soul-aligned systems, turning essence into architecture and visibility into impact.  
-- **Proof of Mythogenic Intelligence** with Sakrae → [https://soultrium.com/sakrae](https://sakrae.com)  
+- **Proof of Mythogenic Intelligence** with Sakrae → [https://sakrae.com](https://sakrae.com)  
   *The Arc of Becoming. An album Co-Created with Mythogenic Intelligence. Sanctuary that remembers into sound.*
 
 ---
