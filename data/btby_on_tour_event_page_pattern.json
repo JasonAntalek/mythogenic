@@ -1,0 +1,146 @@
+[
+  {
+    "unique_id": "btby-event-pattern-01",
+    "content_fragment": "Each BTBY On Tour city page exists to help a qualified visitor decide to reserve a seat for that specific event.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "governance",
+    "semantic_subtype": "event_page",
+    "priority": 1,
+    "search_terms": ["page job", "purpose", "reserve seat", "city event"]
+  },
+  {
+    "unique_id": "btby-event-pattern-02",
+    "content_fragment": "Within five seconds visitors must know what the page is, where and when it happens, and the next action or the page is broken.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "governance",
+    "semantic_subtype": "usability",
+    "priority": 1,
+    "search_terms": ["5-second test", "clarity", "what where when", "next action"]
+  },
+  {
+    "unique_id": "btby-event-pattern-03",
+    "content_fragment": "Above the fold must show event identity with BTBY LIVE EXPERIENCE, event title, city and date, followed by a concrete one-sentence outcome and the primary CTA.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "layout",
+    "semantic_subtype": "hero",
+    "priority": 1,
+    "search_terms": ["above the fold", "event identity", "hero", "outcome"]
+  },
+  {
+    "unique_id": "btby-event-pattern-04",
+    "content_fragment": "The only above-the-fold CTA is 'Reserve My Seat', visually dominant and immediately visible on mobile with no secondary CTAs or distracting navigation.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "cta",
+    "semantic_subtype": "placement",
+    "priority": 1,
+    "search_terms": ["CTA", "Reserve My Seat", "above the fold", "mobile"]
+  },
+  {
+    "unique_id": "btby-event-pattern-05",
+    "content_fragment": "All CTAs on the page must use the exact language 'Reserve My Seat' and lead directly to checkout or the seat reservation flow; remove any CTA that does not advance commitment.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "cta",
+    "semantic_subtype": "governance",
+    "priority": 1,
+    "search_terms": ["CTA rules", "checkout", "commitment", "no synonyms"]
+  },
+  {
+    "unique_id": "btby-event-pattern-06",
+    "content_fragment": "Sections must stay in this order: Hero, About This Event, What You’ll Walk Out With, Who This Is For / Not For, Trust Reinforcement, Logistics, Final CTA.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "structure",
+    "semantic_subtype": "section_order",
+    "priority": 1,
+    "search_terms": ["section order", "progression", "layout", "hero"]
+  },
+  {
+    "unique_id": "btby-event-pattern-07",
+    "content_fragment": "Language must stay grounded, decisive, calm, and action-oriented; avoid hype, motivational tone, spiritualized claims, or vague aspirations.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "tone",
+    "semantic_subtype": "language",
+    "priority": 2,
+    "search_terms": ["language posture", "grounded", "no hype", "tone"]
+  },
+  {
+    "unique_id": "btby-event-pattern-08",
+    "content_fragment": "The About This Event section stays short and specific, reinforcing seriousness without re-explaining BTBY, preaching philosophy, or repeating hero language.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "content_guidance",
+    "semantic_subtype": "about_section",
+    "priority": 2,
+    "search_terms": ["About This Event", "short", "specific", "no philosophy"]
+  },
+  {
+    "unique_id": "btby-event-pattern-09",
+    "content_fragment": "Lead with outcomes a guest leaves with rather than in-room features; describe post-event changes instead of activities or energy.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "content_guidance",
+    "semantic_subtype": "outcomes",
+    "priority": 2,
+    "search_terms": ["outcomes", "benefits", "post-event", "features"]
+  },
+  {
+    "unique_id": "btby-event-pattern-10",
+    "content_fragment": "Include a required self-selection filter with 'This is for you if…' and 'This is not for you if…' to improve conversion quality and room coherence.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "content_guidance",
+    "semantic_subtype": "audience_filter",
+    "priority": 2,
+    "search_terms": ["who this is for", "not for", "self-selection", "filter"]
+  },
+  {
+    "unique_id": "btby-event-pattern-11",
+    "content_fragment": "Trust reinforcement should be minimal and specific to live events, such as prior attendance numbers, city outcomes, or short grounded testimonials—avoid walls of social proof.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "content_guidance",
+    "semantic_subtype": "trust",
+    "priority": 2,
+    "search_terms": ["trust reinforcement", "proof", "testimonials", "minimal"]
+  },
+  {
+    "unique_id": "btby-event-pattern-12",
+    "content_fragment": "Logistics must cover date, time, location, and what’s included, positioned before the final CTA in the fixed section order.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "content_guidance",
+    "semantic_subtype": "logistics",
+    "priority": 2,
+    "search_terms": ["logistics", "date time location", "inclusions", "section order"]
+  },
+  {
+    "unique_id": "btby-event-pattern-13",
+    "content_fragment": "End with a final CTA repeating 'Reserve My Seat' as the natural conclusion with no new information introduced.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "cta",
+    "semantic_subtype": "final",
+    "priority": 2,
+    "search_terms": ["final CTA", "recommitment", "reserve my seat"]
+  },
+  {
+    "unique_id": "btby-event-pattern-14",
+    "content_fragment": "Only city, state, date, venue, event title, and minor tone calibration may vary between event pages; all else follows the pattern.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "governance",
+    "semantic_subtype": "variables",
+    "priority": 3,
+    "search_terms": ["variables", "city", "state", "venue", "event title"]
+  },
+  {
+    "unique_id": "btby-event-pattern-15",
+    "content_fragment": "Forbid unrelated program links, membership offers, philosophy essays, multiple CTA verbs, Why BTBY explanations, or brand storytelling on event pages.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "governance",
+    "semantic_subtype": "prohibited",
+    "priority": 2,
+    "search_terms": ["forbidden", "unrelated programs", "multiple CTAs", "brand storytelling"]
+  },
+  {
+    "unique_id": "btby-event-pattern-16",
+    "content_fragment": "A page is done when a stranger can act without explanation, seats sell while the team is offline, and no verbal explanation is required.",
+    "source": "BTBY On Tour — Event Page Pattern",
+    "semantic_type": "definition",
+    "semantic_subtype": "done_criteria",
+    "priority": 3,
+    "search_terms": ["definition of done", "no explanation", "self-serve", "offline"]
+  }
+]
